@@ -1,0 +1,26 @@
+{
+  "ProjectName": "NSJavaScript",
+  "ProjectGuid": "74c17ce2-2c2c-4658-8f7f-25aff24483f8",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NSJavaScript",
+  "DisplayName": "NSJavaScript",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "NativeScript",
+  "FrameworkVersion": "0.4.2"
+}
